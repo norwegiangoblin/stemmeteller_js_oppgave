@@ -1,0 +1,42 @@
+header{
+    display: flex;
+    background-color: #f7ce3e;
+    font-family: sans-serif;
+    color: #0a1612;
+    justify-content: space-between;
+    font-size: 400%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+body{
+    margin: 0;
+}
+
+.voting{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%
+}
+
+#graph{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#reset{
+    display: flex;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    justify-content: center;
+    font-family: sans-serif;
+    font-size: 400%;
+}
+
+#reset_button {
+    font-size: 100%
+}
